@@ -1,1 +1,1 @@
-# AUTOMATIC-CLASSIFICATION-AND-CATEGORIZATION-FOR-E-MAILS
+# Automatic-CLassification-And-Categorization-For-E-Mails
